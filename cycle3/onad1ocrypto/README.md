@@ -21,7 +21,7 @@
 | Link | URL |
 | --- | --- |
 | Repo | [https://github.com/onad1ocrypto/stakesafe](<https://github.com/onad1ocrypto/stakesafe>) |
-| Demo | [https://stakesafe-kappa.vercel.app/](<https://stakesafe-kappa.vercel.app/>) |
+| Demo | [https://stakesafe.web.id](<https://stakesafe.web.id>) |
 | Video | [https://youtube.com/shorts/Iq2gzverQi0?si=igE_gNKtbhh91gAD](<https://youtube.com/shorts/Iq2gzverQi0?si=igE_gNKtbhh91gAD>) |
 | Skool post | [https://www.skool.com/miniappscompetition/stakesafe-staking-in-sight-inside-nimiq-pay?p=febdb6d3](<https://www.skool.com/miniappscompetition/stakesafe-staking-in-sight-inside-nimiq-pay?p=febdb6d3>) |
 | Social post | [https://x.com/onadeonft/status/2116263047920828840?a=fWTcFL3Gcv5WP5JRMlk&s=20](<https://x.com/onadeonft/status/2116263047920828840?a=fWTcFL3Gcv5WP5JRMlk&s=20>) |
