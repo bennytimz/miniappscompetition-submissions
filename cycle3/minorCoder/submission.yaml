@@ -1,0 +1,35 @@
+app_name: GoalJar
+category: Save
+tagline: Save together for trips, gifts and red packets, right inside Nimiq Pay.
+description: Shared savings jars inside Nimiq Pay. Set a goal (trip, group gift,
+  red packets, personal vault), share one link, friends chip in NIM with one
+  tap. Progress, leaderboard and streaks are read from the Nimiq chain.
+  Non-custodial, no backend, 5 languages.
+pricing: Free
+repo_url: https://github.com/minorCoder/nimiq-goaljar
+demo_url: https://nimiq-goaljar.vercel.app
+video_url: https://vimeo.com/1242066692
+contact_email: 407354967@qq.com
+team_name: null
+team_members: null
+x_account: null
+builder_story: "In Taiwan and across Asia, we pool money all the time: a
+  birthday gift for a coworker, a group trip, red packets at Lunar New Year. It
+  usually lives in a messy chat thread and one person's bank app, and nobody can
+  see how close we are. GoalJar makes the jar itself visible: one link, one tap
+  to contribute, and a progress ring everyone trusts because it is read directly
+  from the Nimiq chain. No custody and no backend, just NIM payments with a tag.
+  Next: USDT (Polygon) jars, recurring \"save every Friday\" reminders, and
+  printable QR posters for real-world red-packet tables."
+skool_post_url: null
+social_post_url: null
+heard_about: Other
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+github_login: minorCoder
+submitted_at: 2026-11-02T01:32:40.105Z
