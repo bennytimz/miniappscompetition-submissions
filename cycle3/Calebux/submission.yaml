@@ -1,10 +1,7 @@
 app_name: AKilii
 category: Save
 tagline: Save with your people, right inside Nimiq Pay.
-description: "▎ Akilii brings the savings circle (ajo, esusu, tanda, susu,
-  chama) to Nimiq Pay: friends you trust chip in NIM or USDT each round, one
-  person takes the whole pot, waiting NIM earns staking rewards, and payouts
-  cash out to any Nigerian bank via KhalkosPay. Saving alone? Lock mone"
+description: "Savings circles (ajo, esusu, tanda, chama) inside Nimiq Pay: friends chip in NIM or USDT each round, one takes the whole pot, idle NIM earns staking, and payouts cash out to Nigerian banks. Saving alone? Use a locked goal."
 pricing: Freemium
 repo_url: https://github.com/Calebux/nimiq-circle
 demo_url: https://akilii.xyz

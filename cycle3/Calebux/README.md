@@ -28,7 +28,7 @@
 
 ## Description
 
-▎ Akilii brings the savings circle (ajo, esusu, tanda, susu, chama) to Nimiq Pay: friends you trust chip in NIM or USDT each round, one person takes the whole pot, waiting NIM earns staking rewards, and payouts cash out to any Nigerian bank via KhalkosPay. Saving alone? Lock mone
+Savings circles (ajo, esusu, tanda, chama) inside Nimiq Pay: friends chip in NIM or USDT each round, one takes the whole pot, idle NIM earns staking, and payouts cash out to Nigerian banks. Saving alone? Use a locked goal.
 
 ## Builder story
 
