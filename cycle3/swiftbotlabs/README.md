@@ -1,0 +1,71 @@
+# Kuza
+
+> Savings goals that grow in your own NIM stake. You hold it, it earns, friends can chip in.
+
+<img src="icon.png" alt="App icon" width="128">
+
+| Field | Value |
+| --- | --- |
+| Category | Save |
+| Pricing | Free |
+| Team name | Swift Bot Labs |
+| Team members | _Not provided — optional_ |
+| X account | swiftbotlab |
+| Heard about it via | Skool |
+| Contact email | swiftbotlabs@gmail.com |
+| GitHub login | @swiftbotlabs |
+| Submitted at | 2026-11-03T14:21:13.636Z |
+
+## Links
+
+| Link | URL |
+| --- | --- |
+| Repo | [https://github.com/swiftbotlabs/kuza](<https://github.com/swiftbotlabs/kuza>) |
+| Demo | [https://kuza.swiftbotlab.workers.dev/](<https://kuza.swiftbotlab.workers.dev/>) |
+| Video | [https://youtu.be/zL79duXVY-U](<https://youtu.be/zL79duXVY-U>) |
+| Skool post | [https://www.skool.com/miniappscompetition/kuza-savings-goals-in-your-own-nim-stake-testers-on-mainnet-wanted](<https://www.skool.com/miniappscompetition/kuza-savings-goals-in-your-own-nim-stake-testers-on-mainnet-wanted>) |
+| Social post | [https://x.com/swiftbotlab/status/2117487943527154076](<https://x.com/swiftbotlab/status/2117487943527154076>) |
+
+## Description
+
+Set a goal, stake toward it and watch it grow on-chain. Kuza holds nothing: your NIM sits in your own stake, earning while it waits. Under 100 NIM it fills in your wallet. Friends add with a link. You can leave any time; a live countdown shows the real 12-24 h cooling-off.
+
+## Builder story
+
+Most savings apps ask you to hand your money to someone. On Nimiq you don't have to: stake already sits in your own address, earns on its own, and takes a day to leave. That pause is most of what a savings habit needs, so Kuza is built on it.
+
+You name a goal, set a target and a date, and Kuza works out a weekly plan. Each saving is a staking transaction you approve in Nimiq Pay. There is no pool wallet and no server holding funds. Kuza has no key and couldn't move your NIM if it wanted to.
+
+Being honest about what stake is shaped the product. Staked NIM isn't held back by a rule, and the Nimiq provider can't create vesting contracts, so no Mini App can honestly promise an enforced lock. Kuza says that plainly. Breaking a goal shows the true path: stop earning, a cooling-off that ends at a block we compute from the chain, then two approvals to get back to your wallet. On screen you see how many hours are left, and you can change your mind and go back to earning. The rules are checked against the network's own source and against real mainnet stakers, and they have unit tests.
+
+The 100 NIM minimum for a new stake was the next problem. Rather than hide it, a goal fills in your wallet until it reaches 100, and tells you how far off you are. Kuza just keeps a note, and that NIM stays free to spend until you stake it. After that any amount can be added.
+
+The group jar is the part we like most. Your invite link carries the goal, not any money. A friend pays your own address directly with a short public note, and Kuza reads that note from the chain. Nobody has to trust Kuza with anything, and anyone can check the total.
+
+Testing on a real wallet taught us things the docs don't say. Nimiq Pay pays from a second account, not the one it shows first. A transaction the network would refuse can leave the wallet waiting and block later sends. So Kuza re-reads the chain right before every approval and won't ask for anything the network would reject. A cancelled sheet is treated as normal, and an unknown outcome is never retried.
+
+Kuza works in English, Spanish, French and Swahili, follows the language set in Nimiq Pay, and shows values in your currency. It collects one thing: a one-way hash of your address, once, to show a public wallet count, and you can turn that off. The code is MIT licensed, with no build step and no dependencies beyond the Nimiq SDK.
+
+Every step has now run on mainnet in the real Nimiq Pay app, on two real Android phones with real NIM: a new stake, a top-up, a friend's gift with a note, stop earning, and after the cooling-off, retire and remove back to the wallet. Each transaction is linked in the README. The screenshots come from those runs, and the wallets in them are our own test wallets.
+
+Kuza means "grow" in Swahili.
+
+## Thumbnail
+
+![Thumbnail](thumbnail.png)
+
+## Screenshots
+
+![Screenshot 1](screenshot-1.png)
+
+![Screenshot 2](screenshot-2.png)
+
+![Screenshot 3](screenshot-3.png)
+
+![Screenshot 4](screenshot-4.png)
+
+![Screenshot 5](screenshot-5.png)
+
+---
+
+_Generated from the submission form. `submission.yaml` in this folder is the machine-readable source of truth._
