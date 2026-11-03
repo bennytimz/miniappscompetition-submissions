@@ -1,0 +1,33 @@
+app_name: Pay links
+category: Pay
+tagline: Nimiq's community, paid with one link.
+description: "Pay Links gives the Nimiq community one link for the everyday
+  money it already moves: thanking a forum helper, paying a translator,
+  splitting a meetup cost or backing a group project. The link opens inside
+  Nimiq Pay, ready to pay in two taps. No addresses to copy and paste."
+pricing: Free
+repo_url: https://github.com/gitkelv/nimiq-pay-links
+demo_url: https://gitkelv.github.io/nimiq-pay-links/
+video_url: https://youtu.be/lBGMJaZzLZg?si=SihdrZxOC3j0n4hB
+contact_email: kelvinnogohi@gmail.com
+team_name: null
+team_members: null
+x_account: hiatusmeansrest
+builder_story: "The Nimiq community already sends small amounts to each other
+  all the time: tips for forum helpers, thanks for translators and builders,
+  shares of a meetup bill. But in Nimiq Pay that means copying an address into a
+  chat, with no amount and no reason. I built Pay Links so anyone can share one
+  link and get paid, and so every payment can also bring a new person into Nimiq
+  Pay."
+skool_post_url: https://www.skool.com/miniappscompetition/community-using-nim?p=d4fd5361
+social_post_url: https://x.com/paylinksnim/status/2117187746158768572?s=46
+heard_about: X
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+github_login: gitkelv
+submitted_at: 2026-11-02T09:53:34.526Z
