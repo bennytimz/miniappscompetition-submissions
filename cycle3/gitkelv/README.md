@@ -21,7 +21,7 @@
 | Link | URL |
 | --- | --- |
 | Repo | [https://github.com/gitkelv/nimiq-pay-links](<https://github.com/gitkelv/nimiq-pay-links>) |
-| Demo | [https://nimpay.app/miniapps/open/gitkelv.github.io/nimiq-pay-links/](<https://nimpay.app/miniapps/open/gitkelv.github.io/nimiq-pay-links/>) |
+| Demo | [https://gitkelv.github.io/nimiq-pay-links/](<https://gitkelv.github.io/nimiq-pay-links/>) |
 | Video | [https://youtu.be/lBGMJaZzLZg?si=SihdrZxOC3j0n4hB](<https://youtu.be/lBGMJaZzLZg?si=SihdrZxOC3j0n4hB>) |
 | Skool post | [https://www.skool.com/miniappscompetition/community-using-nim?p=d4fd5361](<https://www.skool.com/miniappscompetition/community-using-nim?p=d4fd5361>) |
 | Social post | [https://x.com/paylinksnim/status/2117187746158768572?s=46](<https://x.com/paylinksnim/status/2117187746158768572?s=46>) |
