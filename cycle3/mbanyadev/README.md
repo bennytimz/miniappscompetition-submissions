@@ -12,7 +12,7 @@
 | Team members | _Not provided — optional_ |
 | X account | _Not provided — optional_ |
 | Heard about it via | Nimiq community / miniappscompetition.com |
-| Contact email | maureenwepngong+mbanya@gmail.com |
+| Contact email | 347824690+mbanyadev@users.noreply.github.com |
 | GitHub login | @mbanyadev |
 | Submitted at | 2026-10-31T12:31:03.322Z |
 
@@ -23,7 +23,7 @@
 | Repo | [https://github.com/mbanyadev/nimcfa](<https://github.com/mbanyadev/nimcfa>) |
 | Demo | [https://mbanyadev.github.io/nimcfa/](<https://mbanyadev.github.io/nimcfa/>) |
 | Video | [https://vimeo.com/1241703996](<https://vimeo.com/1241703996>) |
-| Skool post | _Not provided — optional_ |
+| Skool post | [https://www.skool.com/miniappscompetition/nimcfa-cash-out-nim-to-mtn-momo-orange-money-inside-nimiq-pay-testnet-demo-please-try-it](<https://www.skool.com/miniappscompetition/nimcfa-cash-out-nim-to-mtn-momo-orange-money-inside-nimiq-pay-testnet-demo-please-try-it>) |
 | Social post | _Not provided — optional_ |
 
 ## Description
