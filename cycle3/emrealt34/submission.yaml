@@ -1,0 +1,56 @@
+app_name: NimShop
+category: Pay
+tagline: Gift cards paid in NIM. Cashback, staking and reviews on-chain.
+description: "Nimshop is a gift-card and digital-goods storefront built for
+  Nimiq Pay that uses the blockchain three ways: pay with NIM and earn cashback,
+  stake with our Nimiq Base Staking pool (80M NIM) to boost it by up to +10%,
+  and rate and review every order on-chain. Its gift em"
+pricing: Free
+repo_url: https://github.com/emrealt34/nimiqshop
+demo_url: https://shop.nimiqbase.com
+video_url: https://youtube.com/shorts/SKCBfnE4zWg?feature=share
+contact_email: emre34altinok@gmail.com
+team_name: Altinok
+team_members:
+  - Emre Altinok
+  - Hasan Altinok
+x_account: nimiqbase
+builder_story: "At the start of the second cycle, we asked the Nimiq team to add
+  Bitcoin Lightning support for mini apps. Many projects have since started
+  using it, and thanks to our request, Lightning payments are now possible in
+  mini apps. We’re proud that Nimshop helped push this forward.\r
+
+  \r
+
+  Nimshop never holds a customer balance, so there is nothing to withdraw and
+  nothing to lose.\r
+
+  \r
+
+  Stake. We developed Nimiq Base Staking specifically to pay these cashbacks,
+  and it has reached 80 million NIM at the time of writing. Stake with it and
+  your cashback rate rises from the base rate up to +10%, with a loyalty ramp
+  that rewards people who stay.\r
+
+  \r
+
+  Review. Every order can be rated from 1 to 5 and commented on by sending a
+  transaction to the blockchain, so reviews are public and permanent.\r
+
+  \r
+
+  Gift emails are customized for Nimiq too. When you send a gift card to someone
+  outside the ecosystem, the email introduces them to Nimiq and gets them
+  started."
+skool_post_url: https://www.skool.com/miniappscompetition/nimshop-update-our-pool-hits-80m-nim
+social_post_url: https://x.com/NimiqBase/status/2111730747841347770
+heard_about: From nimiq website
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+github_login: emrealt34
+submitted_at: 2026-11-04T09:06:49.796Z
