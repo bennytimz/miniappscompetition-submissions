@@ -6,15 +6,15 @@
 
 | Field | Value |
 | --- | --- |
-| Category | On/Off-Ramp |
+| Category | Earn |
 | Pricing | Free |
 | Team name | wizardskull |
-| Team members | gbeja toyosi, oladapo damilola |
+| Team members | gbeja toyosi |
 | X account | thoyourbaby |
 | Heard about it via | X |
 | Contact email | oladapodamiey@gmail.com |
 | GitHub login | @demonchant |
-| Submitted at | 2026-11-07T22:13:08.135Z |
+| Submitted at | 2026-11-08T21:56:13.254Z |
 
 ## Links
 
