@@ -1,0 +1,37 @@
+app_name: Current
+category: On/Off-Ramp
+tagline: Tagline Put your USDT to work, with every step in view.
+description: Current is a Nimiq Pay Mini App for people who want to supply USDT
+  to or withdraw it from Aave V3 on Polygon. It shows the live market rate and
+  wallet position, and checks the transaction receipt and updated position
+  before confirming completion.
+pricing: Free
+repo_url: https://github.com/demonchant/current
+demo_url: https://current.oladapodamiey.workers.dev/
+video_url: https://youtu.be/EDPMHaYVrj0
+contact_email: oladapodamiey@gmail.com
+team_name: wizardskull
+team_members:
+  - gbeja toyosi
+  - oladapo damilola
+x_account: thoyourbaby
+builder_story: "I built Current from a problem I know well: wanting my savings
+  to grow, but feeling unsure how to put them to work. Money sitting still can
+  feel like money losing ground, yet earning shouldn’t mean handing over control
+  or signing things you don’t understand. I created Current to make that choice
+  easier to see and review: check Aave’s live USDT rate, understand each step,
+  and verify what happened on Polygon. Your funds stay in your wallet until you
+  approve a transaction, and the rate can change there are no guaranteed
+  returns."
+skool_post_url: null
+social_post_url: https://x.com/thoyourbaby/status/2119029326611919338?s=46
+heard_about: X
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+github_login: demonchant
+submitted_at: 2026-11-07T22:13:08.135Z
