@@ -1,0 +1,52 @@
+app_name: Ferry
+category: On/Off-Ramp
+tagline: Your crypto, spendable where you live.
+description: "Ferry lets you cash out USDT or NIM to banks, mobile money and
+  airtime in 13 countries, or add money by bank transfer, without leaving Nimiq
+  Pay. It's self-custodial: funds go straight from your wallet to the payout
+  partner, with one approval and gas covered."
+pricing: Free
+repo_url: https://github.com/Manuel-dev01/ferry
+demo_url: https://ferry-beta.vercel.app/
+video_url: https://youtu.be/1jK75IjuX-M
+contact_email: emmanuelolamiye@gmail.com
+team_name: Team Aurora
+team_members: null
+x_account: ola_nuell
+builder_story: "I live where crypto and everyday money don't meet easily. Rent,
+  school fees and airtime get paid in naira or shillings, not USDT. Nimiq Pay
+  made holding NIM and USDT simple, but getting it out still meant leaving the
+  wallet for an exchange or a P2P trade with a stranger. That gap is what Ferry
+  closes.\r
+
+  \r
+
+  I set one rule from day one: Ferry never touches the money. Funds go straight
+  from your wallet to the payout partner, every payment needs your tap, and
+  nothing pops up on page load.\r
+
+  \r
+
+  The hardest part was a wall I didn't expect. Fonbnk's form only connects
+  wallets over WalletConnect, and Nimiq Pay can't do that inside Fonbnk's frame.
+  So Ferry became that wallet: you copy a link, paste it, approve once, and
+  Ferry hands the transaction hash back automatically.\r
+
+  \r
+
+  The first real payout landed in a Nigerian bank on October 28. Since then,
+  real people have cashed out through Ferry, and every cash-out is public on
+  Proof of Ferry."
+skool_post_url: https://www.skool.com/miniappscompetition/ferry-is-live?p=7f37de10
+social_post_url: https://x.com/ola_nuell/status/2119726284121030869?s=20
+heard_about: X
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: Manuel-dev01
+submitted_at: 2026-11-09T10:59:01.885Z
