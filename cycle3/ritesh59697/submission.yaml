@@ -1,0 +1,48 @@
+app_name: Lightning Tips
+category: Off-theme
+tagline: Tip any creator in Bitcoin over Lightning, straight from your NIM or
+  USDT balance.
+description: Lightning Tips lets Nimiq Pay users tip creators in Bitcoin over
+  Lightning, paid from their NIM or USDT balance via a self-custodial atomic
+  swap. For streamers, writers and open-source developers who accept Lightning
+  tips, and fans who don't have a Bitcoin wallet.
+pricing: Free
+repo_url: https://github.com/ritesh59697/nimiq-lightning-tips
+demo_url: https://nimiq-lightning-tips.vercel.app
+video_url: https://youtube.com/shorts/d7yxK8jBi70
+contact_email: riteshwork5969@gmail.com
+team_name: null
+team_members: null
+x_account: ritesh5969
+builder_story: "Nimiq Pay can pay Lightning invoices with NIM or USDT, but no
+  Mini App was using it. Lightning tips are how much of the Bitcoin creator
+  economy gets paid, so I built a tip jar that connects the two: pick an amount,
+  approve once, and the creator receives Bitcoin.\r
+
+  \r
+
+  I built it for real money from the start. A resolved wallet call only means
+  the swap began, so the app checks the creator's Lightning backend and shows
+  \"Tip delivered\" only once the invoice is actually paid. If a payment's
+  outcome is unclear, it waits for settlement and never offers a retry while
+  money may already have moved. Cancellations, low balances, expired invoices
+  and outdated app versions each get plain-language messages that say whether
+  funds moved. The server holds only a receive-only Lightning key, so it can
+  never spend.\r
+
+  \r
+
+  Any creator can run their own copy by setting a few environment variables.
+  Open source under MIT."
+skool_post_url: https://www.skool.com/miniappscompetition/lightning-tips-tip-creators-in-bitcoin-paid-from-your-nimiq-pay-balance
+social_post_url: null
+heard_about: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+github_login: ritesh59697
+submitted_at: 2026-11-10T14:04:22.522Z
