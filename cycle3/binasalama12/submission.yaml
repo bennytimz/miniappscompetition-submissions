@@ -1,0 +1,36 @@
+app_name: PayLink — Nimiq Payment Requests
+category: Pay
+tagline: "Payment requests as a link: create, share, and get paid in NIM or USDT."
+description: "PayLink turns a payment request into a link or QR code that anyone
+  can pay inside Nimiq Pay — in NIM, or in USDT on Polygon. It's made for
+  freelancers, small sellers, and anyone splitting a bill: create a request in
+  seconds, share it anywhere, and track it in the app until it's p"
+pricing: Free
+repo_url: https://github.com/binasalama12/nimiq-paylink
+demo_url: https://binasalama12.github.io/nimiq-paylink/
+video_url: https://www.youtube.com/watch?v=dWHL7mJNaoo
+contact_email: binasalama12@gmail.com
+team_name: null
+team_members: null
+x_account: Lutvi_ansyah
+builder_story: "I'm an independent developer based in Indonesia, and I built
+  PayLink during Cycle 3 of the Nimiq Mini Apps Competition. I wanted to test a
+  simple idea: a payment request should work like a link — something you can
+  paste into a chat, print as a QR code, or put on an invoice — without a server
+  in the middle. It was my first time building with the Nimiq Mini App SDK, and
+  its focused surface made it practical to ship a complete flow — create, share,
+  pay, track — within one cycle. PayLink is open source under the MIT license,
+  and I plan to keep improving it based on feedback from users."
+skool_post_url: null
+social_post_url: null
+heard_about: X
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: binasalama12
+submitted_at: 2026-11-09T19:03:49.154Z
