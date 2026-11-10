@@ -1,0 +1,44 @@
+app_name: BuyList.plan
+category: Save
+tagline: Want it, plan it, make it happen.
+description: Turn your wishlist into a plan. Set a target to save per week/month
+  towards your wish. find your pace and contribute solo or with your people
+  towards achieving your planned goal.
+pricing: Free
+repo_url: https://github.com/Rushikesh0125/buylist-nimiq/tree/main
+demo_url: https://buylist-nimiq-staging.jadhav-rushikesh-ggl.workers.dev
+video_url: https://youtu.be/m3kf18gWBdY
+contact_email: jadhav.rushikesh.ggl@gmail.com
+team_name: null
+team_members: null
+x_account: 0xrushya
+builder_story: "My TV started showing blue lines a few months ago. Money was
+  tight, so I told myself I’d replace it next month. Four months later, the
+  lines were still there, and the new TV was still on my list.\r
+
+  \r
+
+  I knew what I wanted to buy and roughly what it would cost. What I didn’t have
+  was a plan for how much to set aside or when I’d actually have enough. So I
+  built Buylist to turn “I’ll buy it next month” into a savings goal with a
+  schedule and a way to see my progress.\r
+
+  \r
+
+  I built it into Nimiq Pay so each contribution can go directly into staking
+  with the user’s approval. Buylist uses the schedule to suggest when to start
+  unstaking, so the money has time to become available when it’s time to buy.
+  The TV is still on my list. This time, it has a plan."
+skool_post_url: null
+social_post_url: null
+heard_about: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: Rushikesh0125
+submitted_at: 2026-11-10T16:03:07.803Z
