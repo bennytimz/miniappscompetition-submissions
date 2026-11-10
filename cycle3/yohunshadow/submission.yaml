@@ -1,0 +1,32 @@
+app_name: Pockets
+category: Save
+tagline: Split your money into pockets. Pay from the right one.
+description: "Envelope budgeting inside Nimiq Pay: split your NIM and USDT into
+  pockets like Rent, Food and Savings, then pay straight from the right one.
+  Non-custodial and built for anyone paid in crypto who wants to know what they
+  can still spend."
+pricing: Free
+repo_url: https://github.com/yohunshadow/pockets_nimiq
+demo_url: https://nimpay.app/miniapps/open/pockets-topaz.vercel.app
+video_url: https://youtube.com/shorts/t5V8Jz5tGMA?si=Kj-WnP-wHtULYsmV
+contact_email: yendkontl@gmail.com
+team_name: null
+team_members: null
+x_account: 3amer_osama
+builder_story: "My wallet only ever showed one big number, so I never knew what
+  was actually free to spend. Pockets brings old-school envelope budgeting to
+  Nimiq Pay: plan your money into pockets, pay from the one you chose, and keep
+  everything non-custodial in your own wallet."
+skool_post_url: https://www.skool.com/miniappscompetition/pockets-envelope-budgeting-inside-nimiq-pay?p=89c76107
+social_post_url: https://x.com/3amer_osama/status/2120198508561269061?a=RytDhWX1H6erWGfDqBE&s=19
+heard_about: I'm Heard On X
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: yohunshadow
+submitted_at: 2026-11-10T17:25:18.533Z
