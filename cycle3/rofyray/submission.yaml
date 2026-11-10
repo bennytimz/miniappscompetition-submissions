@@ -1,0 +1,49 @@
+app_name: CediNest
+category: Earn
+tagline: Save in dollars. See it in cedis.
+description: Your USDT earns a variable rate in Aave on Polygon while CediNest
+  shows every balance, goal and gain in Ghana cedis. Stamp a saving whenever you
+  can, pay a tiny NIM fee instead of gas, and watch your monthly stamp card fill
+  up like a susu card.
+pricing: Free
+repo_url: https://github.com/rofyray/cedinest
+demo_url: https://cedinest.vercel.app
+video_url: https://youtu.be/yc5u1duo5Mo
+contact_email: rofyone@gmail.com
+team_name: LynxSphynx Co.
+team_members: null
+x_account: rofyray
+builder_story: "In Ghana, the cedi has lost roughly a third of its value against
+  the dollar in some recent years, so saving in cedis means watching your money
+  shrink. People who can save in dollars do, but the tools are either banks with
+  high minimums or crypto apps that assume you hold gas tokens and read
+  everything in USD.\r
+
+  \r
+
+  CediNest is the susu card I wished existed. You keep USDT in your own Nimiq
+  Pay wallet, put it to work in Aave on Polygon, and the app shows every
+  balance, goal, and gain in cedis, the unit people actually plan in. The stamp
+  card comes straight from the paper cards susu collectors use: one stamp per
+  saving, a full card at the end of the month.\r
+
+  \r
+
+  The technical knot was gas. Nimiq Pay users hold NIM and USDT, not POL, so
+  CediNest charges a tiny NIM fee and a relayer pays the Polygon gas, using an
+  EIP-2612 permit so the money only ever moves between the user's wallet and
+  their own Aave position. The relay contract is about 70 lines, holds nothing,
+  and cannot take funds."
+skool_post_url: https://www.skool.com/miniappscompetition/cedinest-is-live-save-in-dollars-see-it-in-cedis?p=017c9537
+social_post_url: https://x.com/rofyray/status/2120078940127846504?a=SPPSzO92DXdUG1t-Ki4&s=20
+heard_about: X
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: rofyray
+submitted_at: 2026-11-10T09:03:15.627Z
