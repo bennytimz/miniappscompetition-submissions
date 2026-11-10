@@ -1,0 +1,48 @@
+app_name: Counter
+category: Pay
+tagline: Good things, paid for simply.
+description: "Counter is a small shop inside Nimiq Pay where people can discover
+  useful products and pay makers directly in NIM. \r
+
+  \r
+
+  Buyers approve payment in their own wallet; Counter verifies the exact amount,
+  recipient, order reference, and finality before releasing a product."
+pricing: Paid
+repo_url: https://github.com/theeagle2407/counter-pay
+demo_url: https://counter-pay.theeagle2407.workers.dev/
+video_url: https://youtube.com/shorts/9mbHcT3UWZ8?feature=share
+contact_email: elijahoreoluwa45@gmail.com
+team_name: Eagle
+team_members: null
+x_account: theeagle2407
+builder_story: "I built Counter because making something valuable should be
+  enough to start selling it. Too often, an independent maker has to piece
+  together a storefront, a payment method and a way to deliver their work before
+  the first customer can buy.\r
+
+  \r
+
+  Counter brings those steps together inside Nimiq Pay. A buyer can find
+  something they like, pay the maker directly, and receive it once the payment
+  is verified. I started with digital products because I could make that promise
+  work from beginning to end.\r
+
+  \r
+
+  My hope is that Counter grows into a place where more people can earn from the
+  things they make - including things a neighbour could pick up. The first step
+  is simple: make one honest purchase feel effortless for both sides."
+skool_post_url: null
+social_post_url: https://x.com/theeagle2407/status/2119480856960287188?a=hj0PPprtgg813oJcVpg&s=20
+heard_about: X
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: theeagle2407
+submitted_at: 2026-11-08T17:24:30.014Z
