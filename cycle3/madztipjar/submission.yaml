@@ -1,0 +1,41 @@
+app_name: TipJar
+category: Pay
+tagline: Tip any creator in NIM — one link, one tap.
+description: TipJar turns a creator's Nimiq address into a tip page anyone can
+  pay in seconds. The creator pastes their address once and gets a shareable
+  link and QR code — for a stream overlay, a social bio, or a sticker on a
+  laptop. A supporter opening the link sees preset amounts (1/5/10/2
+pricing: Free
+repo_url: https://github.com/madztipjar/tipjar
+demo_url: https://madztipjar.github.io/tipjar/
+video_url: https://youtube.com/shorts/NMBpyCjCr88
+contact_email: maderzlast@gmail.com
+team_name: null
+team_members: null
+x_account: null
+builder_story: "I'm an independent Web3 operator from Indonesia. Most of my days
+  go into online communities — running a Telegram group, hunting airdrops,
+  testing new wallets — and I kept seeing the same gap: small creators in our
+  communities had no easy way to receive a small \"thank you\" payment without
+  handing out a raw address or signing up for a platform that takes a cut and a
+  KYC form. When the Nimiq Mini Apps competition opened, NIM looked like the
+  right tool: an address a human can actually read, a wallet people already
+  carry on their phone, and payments that settle without an intermediary. I
+  built TipJar to be the smallest possible version of a tip page — one static
+  page, no server, nothing between a supporter and a creator except Nimiq Pay's
+  own confirmation dialog. Two design decisions I'm proud of: the guestbook
+  signs messages instead of posting them on-chain (identity without fees), and
+  the whole app still works as a demo in a normal browser, so anyone can try the
+  flow before installing anything. TipJar is my first Mini App, built solo, and
+  it's MIT-licensed so any creator community can fork it and run their own."
+skool_post_url: null
+social_post_url: null
+heard_about: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+github_login: madztipjar
+submitted_at: 2026-11-08T22:09:16.526Z
