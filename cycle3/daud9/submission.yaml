@@ -1,0 +1,47 @@
+app_name: PriceShield
+category: Save
+tagline: know when you can afford it.
+description: PriceShield tracks a product's price, locks your savings target,
+  and lets you save in NIM through Nimiq Pay. Each contribution is verified
+  on-chain before it counts toward your goal.
+pricing: Free
+repo_url: https://github.com/daud9/PriceShield
+demo_url: https://priceshield.daud9.deno.net/
+video_url: https://youtu.be/8NUb3lJ8O1s?si=vksOgCTui7PF1TfG
+contact_email: shinaoluwa55@gmail.com
+team_name: null
+team_members: null
+x_account: SheikResearch
+builder_story: "PriceShield was inspired by a simple problem: people often find
+  products they want to buy, but struggle to determine the right time to
+  purchase them, keep up with changing prices, and save consistently towards
+  their goals.\r
+
+  \r
+
+  I also recognized that people may earn, shop, and save in different
+  currencies. Our vision is to make it easier for users to track products priced
+  in EUR, GBP, or NGN while planning savings in digital assets as NIM.\r
+
+  \r
+
+  Ultimately, PriceShield is about giving people more control over their
+  purchasing decisions, helping them prepare financially, understand price
+  movements, and work towards purchases with greater confidence.\r
+
+  \r
+
+  I built it around one simple idea: know when you can afford it."
+skool_post_url: https://www.skool.com/miniappscompetition/test-my-mini-app-project?p=94d9ed63
+social_post_url: https://x.com/SheikResearch/status/2120122362897338643?a=cRDWDWrNy6eqUI-5hp4&s=20
+heard_about: X
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: daud9
+submitted_at: 2026-11-10T11:54:40.810Z
