@@ -22,7 +22,7 @@
 | --- | --- |
 | Repo | [https://github.com/chandrapratamar/GoldPocket](<https://github.com/chandrapratamar/GoldPocket>) |
 | Demo | [https://gold-pocket.vercel.app/](<https://gold-pocket.vercel.app/>) |
-| Video | [https://youtube.com/](<https://youtube.com/>) |
+| Video | [https://youtu.be/2z94wyyXGhM](<https://youtu.be/2z94wyyXGhM>) |
 | Skool post | [https://www.skool.com/miniappscompetition/gold-pocket-save-in-real-gold-straight-from-your-wallet-start-from-1?p=8e1c4221](<https://www.skool.com/miniappscompetition/gold-pocket-save-in-real-gold-straight-from-your-wallet-start-from-1?p=8e1c4221>) |
 | Social post | [https://x.com/chandraprtmar/status/2120235493682249810](<https://x.com/chandraprtmar/status/2120235493682249810>) |
 
