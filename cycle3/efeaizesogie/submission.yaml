@@ -1,0 +1,63 @@
+app_name: Payday
+category: Earn
+tagline: Turn your NIM into a weekly paycheck.
+description: "Payday shows the NIM you've lost by not staking, then turns
+  staking into a weekly paycheck: a signed payslip anyone can verify, spending
+  your interest (never savings) via Lightning, and Circles: ajo where nobody
+  holds the money."
+pricing: Free
+repo_url: https://github.com/efeaizesogie/payday
+demo_url: https://efeaizesogie.github.io/payday/
+video_url: https://youtu.be/eJymB4FomPM
+contact_email: efeaizesogie@gmail.com
+team_name: Efecode
+team_members: null
+x_account: efecode
+builder_story: "Most NIM holders never stake, and every staking app looks the
+  same: a balance and an APY. Payday starts somewhere else: with what you've
+  already lost. It rebuilds your idle balance from your own transactions and
+  shows, in NIM and your currency, what it could have earned since
+  proof-of-stake launched.\r
+
+  \r
+
+  Then it makes staking feel like a job that pays: one-tap staking with a
+  validator picked for uptime, fee and compounding; a weekly Payday reveal with
+  your streak; a Stake checkup that flags a bad validator with one-tap fixes;
+  and a payslip your wallet signs, which anyone can check against the live
+  blockchain (tampering is detected).\r
+
+  \r
+
+  Your pay is meant to be spent: cash out exactly what you've earned while
+  savings stay staked, pay any Lightning invoice with NIM through Nimiq Pay's
+  built-in swaps, or spend in AbaPay and NimShop.\r
+
+  \r
+
+  Payday Circles bring the ajo/esusu tradition on-chain with no custody:
+  everyone stakes their own NIM and the group watches one shared paycheck.
+  There's no server; a circle lives in its link.\r
+
+  \r
+
+  Plus a growth planner on Nimiq's real reward curve, six two-minute lessons,
+  and light and dark themes.\r
+
+  \r
+
+  Nimiq integration: all six staking actions, message signing and Lightning
+  payments through the Mini App SDK, Nimiq Pay's remote HTLC balance, host
+  network and currency, full error handling, and no backend."
+skool_post_url: null
+social_post_url: https://x.com/efecode/status/2120073323165958451?a=i316UfJZi3gw-cExJY4&s=20
+heard_about: Nimiq Community
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+github_login: efeaizesogie
+submitted_at: 2026-11-10T08:48:29.197Z
