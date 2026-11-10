@@ -1,0 +1,26 @@
+app_name: Zap near me
+category: Pay
+tagline: Bitcoin merchants near you, pay in seconds.
+description: Discover over 26,000 verified Bitcoin-accepting merchants worldwide
+  and pay them instantly over Lightning. Spend NIM or USDT directly from your
+  Nimiq Pay wallet while merchants receive pure Bitcoin with zero hassle.
+pricing: Free
+repo_url: https://github.com/aoki-non/Zap-near-me
+demo_url: https://zap-near-me.vercel.app/
+video_url: https://youtu.be/Abh9HFHQ1lQ?si=TA5KMUfBU7pRQX0V
+contact_email: aoki91460@gmail.com
+team_name: null
+team_members: null
+x_account: sigma_dexx
+builder_story: null
+skool_post_url: https://www.skool.com/miniappscompetition/demo-day-register-below-to-win-25-usdc-on-nov-11th?p=2bbcf76d
+social_post_url: https://x.com/sigma_dexx/status/2120276000135315567?a=rkyVOI17Xhxe3_QX6_I&s=46
+heard_about: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+github_login: aoki-non
+submitted_at: 2026-11-10T22:18:52.879Z
