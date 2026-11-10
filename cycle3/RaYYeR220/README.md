@@ -1,0 +1,69 @@
+# Accrue
+
+> Put dollars to work on Aave from $1 with no gas token, and stake NIM with a pool the chain shows actually pays.
+
+<img src="icon.png" alt="App icon" width="128">
+
+| Field | Value |
+| --- | --- |
+| Category | Earn |
+| Pricing | Free |
+| Team name | RaYYeR220 |
+| Team members | RaYYeR220 |
+| X account | BazydloMis57623 |
+| Heard about it via | Nimiq Community |
+| Contact email | egorivaschenko77@gmail.com |
+| GitHub login | @RaYYeR220 |
+| Submitted at | 2026-11-09T22:17:46.676Z |
+
+## Links
+
+| Link | URL |
+| --- | --- |
+| Repo | [https://github.com/RaYYeR220/accrue](<https://github.com/RaYYeR220/accrue>) |
+| Demo | [https://accrue.pages.dev](<https://accrue.pages.dev>) |
+| Video | [https://youtu.be/fLzcfMs6zHI](<https://youtu.be/fLzcfMs6zHI>) |
+| Skool post | [https://www.skool.com/miniappscompetition/accrue-your-nim-and-dollars-earning-earn](<https://www.skool.com/miniappscompetition/accrue-your-nim-and-dollars-earning-earn>) |
+| Social post | [https://x.com/BazydloMis57623/status/2119887578807578782](<https://x.com/BazydloMis57623/status/2119887578807578782>) |
+
+## Description
+
+For anyone holding dollars or NIM in Nimiq Pay. USDT or USDC go into Aave v3 on Polygon from $1: Nimiq Pay signs one permit, Accrue pays the gas. NIM stakes through Nimiq Pay's staking transactions, after Payout Check shows from the chain whether the pool passes rewards on.
+
+## Builder story
+
+Picture someone in San José with 50 USDT in Nimiq Pay. It earns nothing there. Aave on Polygon pays interest on the same token, but its first transaction asks for POL to pay the gas, which she doesn't hold and can't buy in the app. Her NIM is staked with a pool, on the pool's word that it pays her.
+
+Nothing on chain makes a pool pay. The network pays rewards to each validator's reward address, and the pool decides when and how much reaches its stakers. subimpact asked on the Nimiq forum (thread Bc.1) whether a staking app could show if a pool actually passes rewards on. The organisers' ideas list adds that "Stablecoin yield is absent from all 204 earlier submissions", that a Mini App "wins on low minimums, plain language and showing value in the user's own currency", and that a new staking front-end "needs a twist".
+
+Accrue puts both to work in one Mini App. Dollars: USDT or USDC on Polygon into Aave v3 from $1 and back, one signature, no POL. NIM: stake with a listed pool, add, switch pool, unstake in guided steps with a countdown, restake rewards paid to your wallet. Payout Check, the twist: for your pool, what your stake should have received after the fee against what reached you; for every listed pool, a verdict from its own transactions that says "not enough data" rather than guess. Values show in the currency Nimiq Pay is set to, in its five languages, and every action leaves a receipt with a chain link.
+
+It runs on Nimiq Pay's providers. Staking uses all six staking transaction types, with the network's rules (100 NIM minimum, never between 0 and 100 NIM left, a pool change only once the stake is released) checked before a dialog opens, so nothing the chain would refuse is sent. Each staking transaction is followed until it confirms or fails.
+
+For dollars, Nimiq Pay signs an EIP-2612 permit through window.ethereum for exactly the amount, valid 20 minutes, naming Accrue's router. The relayer checks amount, deadline, signer, balance and a daily limit, simulates, then pays the gas for one transaction. The router supplies to Aave in your name, so the aTokens land in your own wallet and withdrawing never depends on Accrue. It has no owner, no admin, no upgrade path and no fee. If the relayer can't send, a wallet holding POL can send the same permit itself.
+
+Payout Check is an indexer that runs every minute and reads the pools' reward addresses: rewards in from the network, payouts out to stakers. Over the last 7 days it compares what a pool passed on with what its fee promises and checks the last payout against its schedule. It wants 3 complete payout cycles before it says paid or short, and calls a pool short only when every confirmation window agrees. Against subimpact's independent verifier for ImpactZero over the same blocks, that tool verified 8,483 of 8,485 payout cycles and Accrue measured a paid ratio of 1.000002 for a 0% fee. The method is public in METHODOLOGY.md. Today's scoreboard: 21 listed pools, 12 paid as promised, 6 not enough data, 2 no payouts by design, 1 can't verify.
+
+1,035 automated tests pass (5 browser tests skipped by design), including 26 router tests on a fork of Polygon mainnet against the real Aave v3 pool, with fuzzing and an invariant campaign. The router is live on Polygon at 0x7523972ca2309B7e1a71A870D54eCFe96e71280b, its source verified on Sourcify, and the first deposit and withdrawal went through it with the gas paid by the relayer. On an iPhone in Nimiq Pay, permits for USDT0, USDC and aUSDT0 all signed and verified. The code is MIT, and the scoreboard and an address checker work in any browser at accrue.pages.dev.
+
+Over the next three months I'll keep it running and fix what people report: the relayer funded, the indexer current, a second Nimiq RPC so one outage can't stall verdicts. The update I'm committing to is payout history: each pool's record over 30 and 90 days, and a notice on Home when your pool falls behind schedule.
+
+## Thumbnail
+
+![Thumbnail](thumbnail.png)
+
+## Screenshots
+
+![Screenshot 1](screenshot-1.png)
+
+![Screenshot 2](screenshot-2.png)
+
+![Screenshot 3](screenshot-3.png)
+
+![Screenshot 4](screenshot-4.png)
+
+![Screenshot 5](screenshot-5.png)
+
+---
+
+_Generated from the submission form. `submission.yaml` in this folder is the machine-readable source of truth._
