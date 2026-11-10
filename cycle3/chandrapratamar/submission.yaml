@@ -1,0 +1,55 @@
+app_name: GoldPocket
+category: Save
+tagline: Save in real gold, straight from your wallet. Start from $1 on Nimiq Pay.
+description: Gold Pocket is a self-custodial mini app for Nimiq Pay that lets
+  anyone buy and sell tokenized gold (PAXG) with USDT on Polygon PoS — no
+  accounts, no custodians, no private-key handling. It queries Li.Fi and 1inch
+  in parallel and auto-picks the best rate every time, showing the r
+pricing: Free
+repo_url: https://github.com/chandrapratamar/GoldPocket
+demo_url: https://gold-pocket.vercel.app/
+video_url: https://youtube.com/
+contact_email: chandrapratamaramadhan@gmail.com
+team_name: null
+team_members: null
+x_account: chandraprtmar
+builder_story: "I've always liked investing in gold — not as a trader, but as
+  someone who wants to save a little every month and preserve value.\r
+
+  \r
+
+  But most platforms came with custody risks, confusing fees, or high minimums.
+  So I built **Gold Pocket**.\r
+
+  \r
+
+  Buy PAXG directly from your phone, hold the tokens in your own wallet, and
+  verify every transaction on PolygonScan.\r
+
+  \r
+
+  To make buying simpler, I built an aggregator that compares Li.Fi and 1inch
+  quotes in parallel and automatically selects the better available route.\r
+
+  \r
+
+  My goal for the Save Track is simple: make tokenized gold accessible. Buy
+  small amounts, track your holdings in grams or troy ounces, and see exactly
+  what you paid, received, and spent on fees.\r
+
+  \r
+
+  **Your money. Your wallet. Your gold tokens.**"
+skool_post_url: https://www.skool.com/miniappscompetition/gold-pocket-save-in-real-gold-straight-from-your-wallet-start-from-1?p=8e1c4221
+social_post_url: https://x.com/chandraprtmar/status/2120235493682249810
+heard_about: X
+icon: icon.png
+thumbnail: thumbnail.webp
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: chandrapratamar
+submitted_at: 2026-11-10T19:29:20.028Z
