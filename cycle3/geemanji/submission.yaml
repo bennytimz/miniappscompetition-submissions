@@ -1,0 +1,25 @@
+app_name: Nimpanic
+category: Earn
+tagline: Stake NIM · Call outcomes · Climb the ranks
+description: A Miniapp that helps users stake, predict and earn the outcome of
+  events across multiple events category.
+pricing: Free
+repo_url: https://github.com/geemanji/nim-panic
+demo_url: https://nimpanic.vercel.app
+video_url: https://youtube.com/shorts/zb_REKS09_o?si=LRA2ITW-Vg9n2Ecq
+contact_email: garmanjimichael@gmail.com
+team_name: null
+team_members: null
+x_account: GarryMike_M
+builder_story: null
+skool_post_url: null
+social_post_url: https://x.com/GarryMike_M/status/2099726992069288178?s=09
+heard_about: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+github_login: geemanji
+submitted_at: 2026-11-10T14:26:55.877Z
