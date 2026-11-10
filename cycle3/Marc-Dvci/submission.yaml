@@ -1,0 +1,81 @@
+app_name: Coffer
+category: Save
+tagline: Hold gold, euros and bitcoin in Nimiq Pay. Two signatures, no POL, your
+  own address.
+description: Coffer turns the USDT in Nimiq Pay into gold (PAXG), euros (EURe)
+  or bitcoin (WBTC) held at your own address. You sign twice, a CoW Protocol
+  solver pays the gas, so you need no POL. NIM holders can stake from the same
+  statement. For savers who want out of dollars.
+pricing: Free
+repo_url: https://github.com/Marc-Dvci/Coffer
+demo_url: https://marc-dvci.github.io/Coffer/
+video_url: https://youtu.be/Vo1AkO9CMMc
+contact_email: rgt48790@gmail.com
+team_name: null
+team_members: null
+x_account: null
+builder_story: "I worked as an IT auditor on payment systems in a bank. One
+  habit stayed: a number counts when I can read it back from the source.\r
+
+  \r
+
+  Nimiq Pay already holds two things well, NIM and USDT. The Save brief asks for
+  more: another currency, gold, bitcoin. When I read the Cycle III entries, the
+  Save apps were savings jars for the two coins the wallet already has. None let
+  a user hold anything else. So I built the brief as written.\r
+
+  \r
+
+  The first problem was gas. A USDT holder in Nimiq Pay has no POL, and a swap
+  that fails on gas fails on the first try. Coffer never sends a transaction
+  from the wallet. The user signs an approval for the exact amount and an order.
+  A CoW Protocol solver submits both in one settlement and takes its cost from
+  the USDT sold. The four tokens accept signed approvals in two different ways,
+  and one of them hashes its domain differently from the other three, so I
+  checked each against its contract on Polygon mainnet.\r
+
+  \r
+
+  The second problem was trust. A savings app should refuse a bad trade before
+  it asks for a signature. Coffer checks every quote against a reference price
+  and refuses a move that sits more than 1.5% below it, or one where the fee
+  takes more than 3%. Thin pools are handled by that rule: a large move into
+  gold is refused with \"Move a smaller amount\".\r
+
+  \r
+
+  I then ran Coffer inside Nimiq Pay 2.23.0. The wallet signed all four token
+  approvals and an order. Each signature recovered to the wallet's address, and
+  each approval succeeded on Polygon mainnet when a third party submitted it.
+  That run also showed that Nimiq Pay starts on Ethereum, so Coffer now asks for
+  the switch to Polygon at the first move and opens with the connection sheets
+  only.\r
+
+  \r
+
+  NIM is on the same statement. A NIM holder can stake with a validator pool,
+  ranked by the network's validator score and then by fee.\r
+
+  \r
+
+  Coffer has no server, no contract of its own and no account. 290 unit tests,
+  18 browser tests and 9 live checks cover it, and the decision core has 100%
+  line coverage.\r
+
+  \r
+
+  Team lead: Marc Donovici · https://github.com/Marc-Dvci · Nimiq payout
+  address: NQ89 XN43 6CTC 1VN9 TLDL 9HMY G1YD VX25 CDNH"
+skool_post_url: null
+social_post_url: null
+heard_about: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: Marc-Dvci
+submitted_at: 2026-11-10T16:45:19.028Z
