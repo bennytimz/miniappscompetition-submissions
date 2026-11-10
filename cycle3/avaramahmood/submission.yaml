@@ -1,0 +1,36 @@
+app_name: NimStage
+category: Earn
+tagline: Your fans, your stage, your NIM.
+description: NimStage is where independent musicians go live, sell tracks and
+  tickets, and build a fanbase, all paid in NIM straight to their own wallet.
+  There's no platform fee, so fans can back artists with any size of payments
+  and artists keep every coin.
+pricing: Free
+repo_url: https://github.com/avaramahmood/nimstage
+demo_url: https://nimstage.onrender.com/
+video_url: https://youtu.be/2W7IChLpXgc?si=VUnGRm7S03ViCtV7
+contact_email: avaram.hasan@gmail.com
+team_name: Mahmood
+team_members: null
+x_account: null
+builder_story: "Many people are too hasty or shy to post themselves singing to
+  the world because they have another image built that can be shattered with
+  unexpected musical talent.\r
+
+  Indie producers, artists also struggle with engagement with just enough die
+  hard fans to keep going but not enough revenue from platforms. Fans are
+  willing to pay minismal amounts to support them but addition of platforms for
+  money collection is another obstacle."
+skool_post_url: https://www.skool.com/miniappscompetition/nimstage-your-fans-your-stage-your-nim?p=d56642e7
+social_post_url: https://www.instagram.com/reel/Dfg-5VnzrQk/?utm_source=ig_web_copy_link&cplk=NTc4MTIwNjQ2YQ==
+heard_about: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: avaramahmood
+submitted_at: 2026-11-09T09:19:15.777Z
