@@ -1,5 +1,5 @@
 app_name: Current
-category: On/Off-Ramp
+category: Earn
 tagline: Tagline Put your USDT to work, with every step in view.
 description: Current is a Nimiq Pay Mini App for people who want to supply USDT
   to or withdraw it from Aave V3 on Polygon. It shows the live market rate and
@@ -13,7 +13,6 @@ contact_email: oladapodamiey@gmail.com
 team_name: wizardskull
 team_members:
   - gbeja toyosi
-  - oladapo damilola
 x_account: thoyourbaby
 builder_story: "I built Current from a problem I know well: wanting my savings
   to grow, but feeling unsure how to put them to work. Money sitting still can
@@ -34,4 +33,4 @@ screenshots:
   - screenshot-3.png
   - screenshot-4.png
 github_login: demonchant
-submitted_at: 2026-11-07T22:13:08.135Z
+submitted_at: 2026-11-08T21:56:13.254Z
