@@ -1,0 +1,33 @@
+app_name: NimReview
+category: Earn
+tagline: Prove you went. Earn NIM for an honest review.
+description: NimReview helps guests at restaurants, cafés, and hotels earn NIM
+  for useful reviews after verifying a visit with a single-use bill code. Guests
+  and owners sign in with Nimiq Pay, and owners pay cash-out requests directly
+  from their own wallets.
+pricing: Free
+repo_url: https://github.com/0xsaroj001/nimreview
+demo_url: https://nimreview.vercel.app/
+video_url: https://www.youtube.com/watch?v=YZyFbMY8CpE
+contact_email: sarojyadav123001@gmail.com
+team_name: null
+team_members: null
+x_account: Saroj11862735
+builder_story: A star rating is easy to leave, but the details that help the
+  next guest take time to write. NimReview gives venues a way to reward that
+  effort. A single-use bill code connects a review to a visit, and a critical
+  review can earn just as much as a glowing one. Guests can ask the venue to pay
+  what they’ve earned, and the venue sends NIM directly to the guest’s wallet.
+skool_post_url: https://www.skool.com/miniappscompetition/review-for-nimreview
+social_post_url: https://x.com/Saroj11862735/status/2120415294586061273
+heard_about: X
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: 0xsaroj001
+submitted_at: 2026-11-11T07:16:41.196Z
