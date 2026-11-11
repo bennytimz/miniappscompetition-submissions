@@ -1,0 +1,29 @@
+app_name: SquadStake
+category: Save
+tagline: Pool goals, not money.
+description: Groups save together without one person holding the money. Each
+  member’s share stays staked in their own Nimiq wallet, earning while they
+  wait, and everyone’s progress is verified on-chain. For friends, families and
+  anyone saving as a group.
+pricing: Free
+repo_url: https://github.com/DrApkFile/Squad-Stake
+demo_url: https://squad-stake.vercel.app
+video_url: https://youtu.be/iYhnj-aDvJ8?si=fzeg75IsQTfvyto5
+contact_email: aghaken25@gmail.com
+team_name: null
+team_members: null
+x_account: x.com/LazyGenius_1st
+builder_story: null
+skool_post_url: null
+social_post_url: https://x.com/LazyGenius_1st/status/2120398049759703197?a=ydPkdgvcoDbUTDK-21g&s=20
+heard_about: x
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: DrApkFile
+submitted_at: 2026-11-11T07:07:46.297Z
