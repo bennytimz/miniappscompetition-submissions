@@ -1,0 +1,34 @@
+app_name: Zamu
+category: Save
+tagline: Your chama, paid straight to M-Pesa.
+description: "A chama (Kenyan rotating savings group) inside Nimiq Pay: each
+  round, members pay with NIM or USDT and the shillings land straight in the
+  M-Pesa of whoever's turn it is, with a receipt the whole group sees. For
+  Kenyan and diaspora chamas who want to save together without trusting"
+pricing: Free
+repo_url: https://github.com/Prashant-thakur77/Zamu
+demo_url: https://zamu.prashantthakur.dev
+video_url: https://youtu.be/l7_HeIk76Ig
+contact_email: prashant101007@gmail.com
+team_name: null
+team_members: null
+x_account: 2730Thakur12618
+builder_story: Chamas are how millions of Kenyans save, but almost every one
+  depends on a single treasurer holding the money. I wanted the money to go
+  straight from each member to whoever's turn it is, with proof everyone can
+  see. Zamu uses Nimiq Pay's payLightningInvoice to turn NIM or USDT into
+  shillings in M-Pesa, signed agreements with nimiq.sign(), and a skip rule so
+  nobody can take their turn and stop paying.
+skool_post_url: https://www.skool.com/miniappscompetition/zamu-a-chama-that-pays-straight-to-m-pesa-save?p=8f616483
+social_post_url: https://x.com/2730Thakur12618/status/2120233985637060966
+heard_about: Nimiq Community
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: Prashant-thakur77
+submitted_at: 2026-11-10T19:38:16.280Z
