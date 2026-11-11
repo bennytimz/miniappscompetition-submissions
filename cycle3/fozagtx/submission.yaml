@@ -1,0 +1,29 @@
+app_name: Layaway
+category: Save
+tagline: Reserve an item today. Pay it off in NIM installments. Take it home
+  when it's paid.
+description: "Layby is layaway for local shops inside Nimiq Pay: the shop holds
+  an item, the customer pays it off in small NIM payments, and every payment is
+  checked on the Nimiq chain before it counts. Built for small shops and market
+  stalls whose customers save up for a phone, a sewing machi"
+pricing: Free
+repo_url: https://github.com/fozagtx/layby
+demo_url: https://laybyapp.vercel.app
+video_url: https://vimeo.com/1245618562?share=copy&fl=sv&fe=ci
+contact_email: ibrahimpima76@gmail.com
+team_name: null
+team_members: null
+x_account: zanbuilds
+builder_story: null
+skool_post_url: https://www.skool.com/miniappscompetition/layby-reserve-the-new-iphone-today-pay-it-off-in-nim-installments?p=a87572d0
+social_post_url: null
+heard_about: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+github_login: fozagtx
+submitted_at: 2026-11-10T23:16:16.015Z
