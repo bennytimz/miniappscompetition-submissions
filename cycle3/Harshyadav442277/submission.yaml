@@ -1,0 +1,42 @@
+app_name: Digital Samiti
+category: Save
+tagline: A little each. A lot together.
+description: Digital Samiti helps friends, families, and neighbourhood savings
+  circles set shared goals, track contributions, and vote on loan requests.
+  Members can sign in with Nimiq Pay, and anyone can try the workflow with
+  simulated NIM in the free guest demo.
+pricing: Free
+repo_url: https://github.com/Harshyadav442277/digital-samiti
+demo_url: https://digital-samiti.vercel.app
+video_url: https://youtu.be/btUGK5oaa5A
+contact_email: harsh.2024a@vitstudent.ac.in
+team_name: null
+team_members: null
+x_account: Harsh2679956149
+builder_story: "In rural India, women’s self-help groups pool small savings and
+  lend from that fund when a member needs help. India’s Ministry of Rural
+  Development launched the National Rural Livelihoods Mission in June 2011, now
+  known as Deendayal Antyodaya Yojana–National Rural Livelihoods Mission
+  (DAY-NRLM). By January 2025, the ministry reported 90.9 lakh self-help groups
+  across the country.\r
+
+  \r
+
+  Picture a member whose sewing machine breaks. Her group can lend her money for
+  the repair and agree on when she’ll repay it. I built Digital Samiti around
+  that workflow so every member can see who contributed, how the group voted,
+  and when the next instalment is due. The guest demo lets anyone try it with
+  simulated NIM."
+skool_post_url: https://www.skool.com/miniappscompetition/niminvest-digital-samiti
+social_post_url: https://x.com/Harsh2679956149/status/2120420352463704139
+heard_about: nimiq community
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: Harshyadav442277
+submitted_at: 2026-11-11T07:49:51.047Z
