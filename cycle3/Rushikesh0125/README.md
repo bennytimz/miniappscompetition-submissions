@@ -20,7 +20,7 @@
 
 | Link | URL |
 | --- | --- |
-| Repo | [https://github.com/Rushikesh0125/buylist-nimiq/tree/main](<https://github.com/Rushikesh0125/buylist-nimiq/tree/main>) |
+| Repo | [https://github.com/Rushikesh0125/buylist-nimiq](<https://github.com/Rushikesh0125/buylist-nimiq>) |
 | Demo | [https://buylist-nimiq-staging.jadhav-rushikesh-ggl.workers.dev](<https://buylist-nimiq-staging.jadhav-rushikesh-ggl.workers.dev>) |
 | Video | [https://youtu.be/m3kf18gWBdY](<https://youtu.be/m3kf18gWBdY>) |
 | Skool post | _Not provided — optional_ |
