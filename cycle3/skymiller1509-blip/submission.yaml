@@ -1,0 +1,31 @@
+app_name: Wedding Envelopes
+category: Save
+tagline: Send a gift envelope today. They open it on the wedding day
+description: Wedding guests send money gifts in digital envelopes with a sealed
+  note, paid in NIM or USDT through Nimiq Pay. The couple opens every envelope
+  at once on the wedding day and reads all the notes together.
+pricing: Free
+repo_url: https://github.com/skymiller1509-blip/Wedding-envelopes
+demo_url: https://muse.ai/s/wedding-envelopes-fq6xaxpxkrxuvxaxn/dZyPzHdWinzE9V82DSXJrdvz5vHhCdOVKfH54JlI59I
+video_url: https://www.youtube.com/watch?v=PX0CjxgHNkA
+contact_email: eddiebrit4@gmail.com
+team_name: null
+team_members: null
+x_account: Emeraldpop15035
+builder_story: "Money in envelopes is how guests give at weddings in my culture,
+  with a few words tucked inside for the couple. I built Wedding Envelopes so
+  that tradition survives the move to digital money: the gift arrives through
+  Nimiq Pay, but the words stay sealed until the wedding day, when the couple
+  opens every envelope together."
+skool_post_url: null
+social_post_url: null
+heard_about: X
+icon: icon.jpg
+thumbnail: thumbnail.jpg
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+  - screenshot-4.jpg
+github_login: skymiller1509-blip
+submitted_at: 2026-11-10T22:47:57.512Z
