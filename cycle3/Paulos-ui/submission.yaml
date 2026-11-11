@@ -1,0 +1,113 @@
+app_name: Quorail
+category: Pay
+tagline: Know what your next NIM payment leaves behind.
+description: Quorail helps freelancers, independent builders and small teams
+  plan NIM payments around upcoming commitments and reserve targets. Preview
+  each payment’s impact before approving it inside Nimiq Pay, then track its
+  on-chain receipt alongside your plan.
+pricing: Free
+repo_url: https://github.com/Paulos-ui/quorail-nimiq
+demo_url: https://quorail-nimiq.vercel.app/
+video_url: https://vimeo.com/1245614859?share=copy&fl=sv&fe=ci
+contact_email: Pauljayking1@gmail.com
+team_name: Team Quorail
+team_members:
+  - Jayking
+  - Web3Supporter
+  - Angel Rapture
+  - Mount Josh
+x_account: Quorail @__official__1, @angelraptunde, @instators
+builder_story: "We are a team of five builders collaborating across different
+  countries, backgrounds, and time zones. Our team includes Jayking (Software
+  Engineer), Angelraptumde (Software Engineer, UK), Web3 Supporter (Marketing
+  and Community), Skiii Josh (Builder, Germany), and our fifth contributor.\r
+
+  \r
+
+  We came together around a shared belief: cryptocurrency payments should be
+  more than sending and receiving funds. They should help people make informed
+  financial decisions and we have a strong decision building on Nimiq.\r
+
+  \r
+
+  The Problem We Wanted to Solve\r
+
+  \r
+
+  Traditional crypto wallets show balances and transaction histories, but they
+  rarely account for upcoming responsibilities.\r
+
+  \r
+
+  A freelancer might have enough NIM to make a payment today without realizing
+  that rent, subscriptions, or team expenses are approaching tomorrow.\r
+
+  \r
+
+  The problem isn't necessarily a lack of money. It's a lack of financial
+  context before making a payment.\r
+
+  \r
+
+  What We Built\r
+
+  \r
+
+  Quorail connects payment planning with Nimiq Pay, allowing users to track
+  commitments, establish reserve targets, preview payment consequences, manage
+  recurring expenses, and verify transactions.\r
+
+  \r
+
+  We also introduced Quorail AI, an optional assistant that helps users explore
+  financial scenarios without controlling their funds.\r
+
+  \r
+
+  For teams, shared planning and collection tools make coordinating
+  responsibilities easier.\r
+
+  \r
+
+  Throughout development, we focused on one principle: users must always retain
+  control of their wallets and payment approvals.\r
+
+  \r
+
+  Why It Matters\r
+
+  \r
+
+  Our ambition is to make Quorail more than another Web3 dashboard.\r
+
+  \r
+
+  We want it to become a practical financial companion for creators,
+  freelancers, builders, and everyday Nimiq users.\r
+
+  \r
+
+  Building across borders taught us the importance of collaboration, but it also
+  reinforced why accessible, user-controlled payment tools matter.\r
+
+  \r
+
+  We didn't build Quorail to replace your wallet. We built it to make the
+  decisions around your next payment clearer.\r
+
+  \r
+
+  Quorail. Your next payment. The bigger picture."
+skool_post_url: null
+social_post_url: https://x.com/__Official__1/status/2120471845635871012
+heard_about: Nimiq community and X
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: Paulos-ui
+submitted_at: 2026-11-11T14:03:03.739Z
