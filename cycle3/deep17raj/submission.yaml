@@ -1,0 +1,52 @@
+app_name: NimInk
+category: Earn
+tagline: Write Earn Stake
+description: NimInk — a writing & earning mini app built inside Nimiq Pay.
+  Write, read, and tip articles directly in NIM. Sell premium content, take paid
+  requests, and stake your earnings with a validator — all with no ads, no
+  algorithms, no middlemen.
+pricing: Freemium
+repo_url: https://github.com/deep17raj/NimInk.git
+demo_url: https://nimink.onrender.com/
+video_url: https://youtu.be/6--6ZdpoXls
+contact_email: deeprajkumarwrs@gmail.com
+team_name: null
+team_members: null
+x_account: infinitywarlord
+builder_story: "I write a lot. Notes, ideas, things I’ve been learning. Most of
+  it never gets shared because every platform I’ve tried feels like a bad deal.
+  You write for free, hope the algorithm picks you up, and if you’re lucky you
+  get a small cut months later.\r
+
+  \r
+
+  The writer does the work. The platform takes the value.\r
+
+  \r
+
+  I wanted to build something simpler. What if a reader could just pay a writer
+  directly, the moment they found the article useful? No platform in the middle.
+  No waiting. Just one wallet to another.\r
+
+  \r
+
+  That’s where NimInk started. Tips came first. Then premium unlocks,
+  subscriptions and paid requests, because writers need more than one way to
+  earn. Then the staking feature, which became my favourite part. You earn NIM
+  from your writing, and instead of letting it sit, you can put it to work in
+  one tap. The writing earns, and then the earnings earn.\r
+
+  \r
+
+  I built it because I wanted something I’d actually use myself."
+skool_post_url: https://www.skool.com/miniappscompetition/nimink-is-live-write-earn-stake?p=5b678fc7
+social_post_url: https://x.com/infinitywarlord/status/2120497937356845500?a=wI1OO3ozyU2OcwV06hE&s=19
+heard_about: I got to know by my friend.
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+github_login: deep17raj
+submitted_at: 2026-11-11T12:55:42.798Z
