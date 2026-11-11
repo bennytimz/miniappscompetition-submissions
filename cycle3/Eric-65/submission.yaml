@@ -1,0 +1,29 @@
+app_name: Holdfast Savings
+category: Save
+tagline: Save it. Stake it. Hold fast.
+description: "Holdfast turns savings goals into staked NIM in your own wallet,
+  so your money earns rewards and is harder to spend on impulse. It's for anyone
+  who keeps dipping into their savings: a trusted friend keeps you accountable,
+  and every goal shows in NIM, USDT and naira."
+pricing: Free
+repo_url: https://github.com/Eric-65/Holdfast
+demo_url: https://holdfast-puce.vercel.app/#/
+video_url: https://youtube.com/shorts/nS4KotWLzeQ?si=-NWEHdLenmjNnoab
+contact_email: israeleric414@gmail.com
+team_name: eric.eth
+team_members: null
+x_account: eric0xbt
+builder_story: null
+skool_post_url: null
+social_post_url: https://x.com/eric0xbt/status/2120486246262681955
+heard_about: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: Eric-65
+submitted_at: 2026-11-11T12:34:43.942Z
