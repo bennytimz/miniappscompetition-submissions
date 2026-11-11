@@ -21,7 +21,7 @@
 | Link | URL |
 | --- | --- |
 | Repo | [https://github.com/kazzysax/OMNIM](<https://github.com/kazzysax/OMNIM>) |
-| Demo | [https://github.com/kazzysax/OMNIM](<https://github.com/kazzysax/OMNIM>) |
+| Demo | [https://omnim-io.vercel.app](<https://omnim-io.vercel.app>) |
 | Video | [https://x.com/saxxyweb3/status/2120182405701017696?a=s7Ita7JyZ3tux1xzUmc&s=19](<https://x.com/saxxyweb3/status/2120182405701017696?a=s7Ita7JyZ3tux1xzUmc&s=19>) |
 | Skool post | [https://www.skool.com/miniappscompetition/omnim-hold-more-assets-on-nimiq-pay?p=1046aeac](<https://www.skool.com/miniappscompetition/omnim-hold-more-assets-on-nimiq-pay?p=1046aeac>) |
 | Social post | [https://x.com/saxxyweb3/status/2120182405701017696?a=s7Ita7JyZ3tux1xzUmc&s=19](<https://x.com/saxxyweb3/status/2120182405701017696?a=s7Ita7JyZ3tux1xzUmc&s=19>) |
