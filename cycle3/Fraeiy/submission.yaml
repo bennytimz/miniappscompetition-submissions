@@ -1,0 +1,31 @@
+app_name: PocketPlan
+category: Save
+tagline: Give every NIM a purpose
+description: PocketPlan helps you plan savings around uneven paydays by
+  connecting to Nimiq Pay. Create goals, prioritize upcoming deadlines, and
+  allocate your balance toward what matters most without locking your funds.
+pricing: Free
+repo_url: https://github.com/Fraeiy/pocketplan
+demo_url: https://pocketplan-psi.vercel.app/
+video_url: https://vimeo.com/1245708850
+contact_email: areyourmedayanth@gmail.com
+team_name: null
+team_members: null
+x_account: areyourcrrypt
+builder_story: "I’m a computer engineering student in Nigeria who builds
+  practical tools. With irregular income, knowing your balance doesn’t always
+  tell you what you can afford to spend. I built PocketPlan to make that
+  clearer: give existing NIM a purpose, work toward specific goals and keep room
+  for everyday expenses"
+skool_post_url: null
+social_post_url: https://x.com/areyourcrrypt/status/2120417710198907347
+heard_about: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+github_login: Fraeiy
+submitted_at: 2026-11-11T07:26:41.981Z
