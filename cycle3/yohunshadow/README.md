@@ -21,7 +21,7 @@
 | Link | URL |
 | --- | --- |
 | Repo | [https://github.com/yohunshadow/pockets_nimiq](<https://github.com/yohunshadow/pockets_nimiq>) |
-| Demo | [https://nimpay.app/miniapps/open/pockets-topaz.vercel.app](<https://nimpay.app/miniapps/open/pockets-topaz.vercel.app>) |
+| Demo | [https://pockets-topaz.vercel.app](<https://pockets-topaz.vercel.app>) |
 | Video | [https://youtube.com/shorts/t5V8Jz5tGMA?si=Kj-WnP-wHtULYsmV](<https://youtube.com/shorts/t5V8Jz5tGMA?si=Kj-WnP-wHtULYsmV>) |
 | Skool post | [https://www.skool.com/miniappscompetition/pockets-envelope-budgeting-inside-nimiq-pay?p=89c76107](<https://www.skool.com/miniappscompetition/pockets-envelope-budgeting-inside-nimiq-pay?p=89c76107>) |
 | Social post | [https://x.com/3amer_osama/status/2120198508561269061?a=RytDhWX1H6erWGfDqBE&s=19](<https://x.com/3amer_osama/status/2120198508561269061?a=RytDhWX1H6erWGfDqBE&s=19>) |
