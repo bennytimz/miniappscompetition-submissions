@@ -1,0 +1,33 @@
+app_name: LevelBreak Arena
+category: Earn
+tagline: Teach AI. Earn nim.
+description: A 5-level DeFi training game where external AI agents pay users in
+  NIM for human risk intelligence (RLHF).
+pricing: Free
+repo_url: https://github.com/onyebuchidaniel60/levelbreak-arena
+demo_url: https://levelbreak-arena.vercel.app
+video_url: https://youtube.com/shorts/96oQRSol6kc?feature=share
+contact_email: onyebuchidaniel60@gmail.com
+team_name: null
+team_members: null
+x_account: turnttfup99
+builder_story: AI agents are getting smarter, but they still lack human
+  intuition. To calibrate their risk models in DeFi, they need human feedback,
+  but there's no easy way for them to pay thousands of people for micro-tasks
+  without gas fees. I built LevelBreak Arena to solve this. It's a fast-paced
+  judgment game where users learn DeFi concepts and get paid in NIM by the
+  agents they help. I also built an MCP server so AI tools like Claude can
+  autonomously post bounties directly to the game.
+skool_post_url: https://www.skool.com/miniappscompetition/levelbreak-arena-paying-humans-for-ai-risk-intelligence-on-nimiq?p=609916ea
+social_post_url: https://x.com/Turnttfup99/status/2120222940046504089?a=RUUUKXLJbnC-FFGLNDA&s=20
+heard_about: X
+icon: icon.jpg
+thumbnail: thumbnail.jpg
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+  - screenshot-4.jpg
+  - screenshot-5.jpg
+github_login: onyebuchidaniel60
+submitted_at: 2026-11-10T18:50:53.683Z
