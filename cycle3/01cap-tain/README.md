@@ -22,7 +22,7 @@
 | --- | --- |
 | Repo | [https://github.com/01cap-tain/LockedIn.git](<https://github.com/01cap-tain/LockedIn.git>) |
 | Demo | [https://lockedin-circle.onrender.com/](<https://lockedin-circle.onrender.com/>) |
-| Video | [https://vimeo.com/reviews/f30243c0-0d32-4e40-be98-f6f851de552e/videos/1245647843](<https://vimeo.com/reviews/f30243c0-0d32-4e40-be98-f6f851de552e/videos/1245647843>) |
+| Video | [https://vimeo.com/1245647843](<https://vimeo.com/1245647843>) |
 | Skool post | [https://www.skool.com/miniappscompetition/introducing-lockedin-circle?p=fe57fa91](<https://www.skool.com/miniappscompetition/introducing-lockedin-circle?p=fe57fa91>) |
 | Social post | [https://x.com/CaptainonX/status/2120371460510208085?a=-E3M5H25vuLKX4gPhrw&s=20](<https://x.com/CaptainonX/status/2120371460510208085?a=-E3M5H25vuLKX4gPhrw&s=20>) |
 
